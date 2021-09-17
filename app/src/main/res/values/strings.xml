@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Qarız dápter</string>
+    <string name="signIn"> <a href="">Войти </a> , если Вы уже зарегистрированы</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="qar_z_al_an_k_nim_07_05_2006">Qarız alǵan kúnim: 07.05.2006</string>
+    <string name="this_is_a_mainfragment">This is a MainFragment</string>
+    <string name="fab">fab</string>
+    <string name="adding">Добавить</string>
+    <string name="back">Назад</string>
+    <string name="debt">Долг</string>
+    <string name="loan">Займ</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770947116308",
+    "project_id": "qarizdapter",
+    "storage_bucket": "qarizdapter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770947116308:android:18c2b6c3caad908fc3e601",
+        "android_client_info": {
+          "package_name": "uz.texnopos.qarzdpter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770947116308-3o697jdm30jldqulfe1otkpf04enom9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpUDoZeIc45_6nre99CGn8Qu63wkwx2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770947116308-3o697jdm30jldqulfe1otkpf04enom9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
